@@ -31,8 +31,8 @@ Or for desktop icon packs: `~/.local/share/icons/` or `/usr/share/icons/`
 Then you can use the Window Manager [`xfwm4-settings`](https://docs.xfce.org/xfce/xfwm4/preferences) application to select between themes or the Appearance [`xfce4-appearance-settings`](https://docs.xfce.org/xfce/xfce4-settings/appearance) application to select between desktop icons and appearances.
 
 ## Button Layout
-By default the window panel buttons are left aligned in the respective `themerc` file: `#button_layout=CHM|O`<br>
-however some people may prefer right aligned: `#button_layout=O|HMC`
+By default the window panel buttons are left aligned in the respective `themerc` file: `button_layout=CHM|O`<br>
+however some people may prefer right aligned: `button_layout=O|HMC`
 
 More information about button layouts can be found [here](https://wiki.xfce.org/howto/xfwm4_theme).
 
