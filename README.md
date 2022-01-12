@@ -19,7 +19,5 @@ When it comes to Desktop Icon themes, I really like [elementary-xfce-darker](htt
 [Trimage](https://trimage.org/) was used to compress the PNG files to something more suitable in size.
 
 ## Installation
-Copy these themes into:<br>
-`~/.local/share/themes/` or `/usr/share/themes/`<br>
-e.g:<br>
-`~/.local/share/themes/HitoriDots4`
+Copy these themes into either: `~/.local/share/themes/` or `/usr/share/themes/`<br>
+e.g: `~/.local/share/themes/HitoriDots4`
