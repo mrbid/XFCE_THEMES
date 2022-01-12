@@ -30,6 +30,6 @@ Then you can use the Window Manager [`xfwm4-settings`](https://docs.xfce.org/xfc
 
 ## Button Layout
 By default the window panel buttons are left aligned in the respective `themerc` file:<br>
-`#button_layout=CHM|O`
+`#button_layout=CHM|O`<br>
 however some people may prefer right aligned:<br>
 `#button_layout=O|HMC`
