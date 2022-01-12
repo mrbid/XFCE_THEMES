@@ -21,3 +21,5 @@ When it comes to Desktop Icon themes, I really like [elementary-xfce-darker](htt
 ## Installation
 Copy these themes into either: `~/.local/share/themes/` or `/usr/share/themes/`<br>
 e.g: `~/.local/share/themes/HitoriDots4`
+
+Then you can use the Window Manager `xfwm4-settings` application to select between themes.
