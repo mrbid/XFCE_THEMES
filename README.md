@@ -14,7 +14,7 @@ So I made some variations where I combined the two:
 
 The original themes are included in the repsitory for comparison and reference. Since both Hitori and Dots themes had been released as "GPLv2 or later" that is the same licence used for these modifications. Although I have noticed Dots Black specifies "GPL-3.0+" in the [`themerc`](https://github.com/mrbid/XFCE_THEMES/blob/main/Dots%20Black/xfwm4/themerc) file.
 
-When it comes to Desktop Icon and Appearance themes, I really like the [elementary-xfce-darker](https://github.com/shimmerproject/elementary-xfce/) icons and the [Greybird-dark](https://github.com/shimmerproject/Greybird) appearance. Configurable from the Appearance [`xfce4-appearance-settings`](https://docs.xfce.org/xfce/xfce4-settings/appearance) application.
+When it comes to Desktop Icon and Appearance themes, I really like the [elementary-xfce-darker](https://github.com/shimmerproject/elementary-xfce/) icons and the [Greybird-dark](https://github.com/shimmerproject/Greybird) appearance.
 
 Alternatively [Numix](https://www.xfce-look.org/p/1013541/)[[2](https://github.com/numixproject/numix-gtk-theme/tree/master/src)] is also pretty good.
 
@@ -26,7 +26,7 @@ e.g: `~/.local/share/themes/HitoriDots4`
 
 Or for desktop icon packs: `~/.local/share/icons/` or `/usr/share/icons/`
 
-Then you can use the Window Manager [`xfwm4-settings`](https://docs.xfce.org/xfce/xfwm4/preferences) application to select between themes.
+Then you can use the Window Manager [`xfwm4-settings`](https://docs.xfce.org/xfce/xfwm4/preferences) application to select between themes or the Appearance [`xfce4-appearance-settings`](https://docs.xfce.org/xfce/xfce4-settings/appearance) application to select between desktop icons and appearances.
 
 ## Button Layout
 By default the window panel buttons are left aligned in the respective `themerc` file: `#button_layout=CHM|O`<br>
