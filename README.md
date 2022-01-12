@@ -20,6 +20,6 @@ When it comes to Desktop Icon themes, I really like [elementary-xfce-darker](htt
 
 ## Installation
 Copy these directories into:<br>
-`~/.local/share/themes/` or `/usr/share/themes/`
-e.g:
+`~/.local/share/themes/` or `/usr/share/themes/`<br>
+e.g:<br>
 `~/.local/share/themes/HitoriDots4`
