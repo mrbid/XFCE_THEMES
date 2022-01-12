@@ -12,7 +12,7 @@ So I made some variations where I combined the two:
 - [`HitoriDots3`](https://github.com/mrbid/XFCE_THEMES/tree/main/HitoriDots3/xfwm4) This is HitoriDots1 but the window panel buttons only light up when hovered over.
 - [`HitoriDots4`](https://github.com/mrbid/XFCE_THEMES/tree/main/HitoriDots4/xfwm4) This is HitoriDots3 but now the buttons also have small graphics indicators when they light up.
 
-The original themes are included in the repsitory for comparison and reference. Since both Hitori and Dots themes had been released as "GPLv2 or later" that is the same licence used for these modifications.
+The original themes are included in the repsitory for comparison and reference. Since both Hitori and Dots themes had been released as "GPLv2 or later" that is the same licence used for these modifications. Although I have noticed Dots Black specifies "GPL-3.0+" in the [`themerc`](https://github.com/mrbid/XFCE_THEMES/blob/main/Dots%20Black/xfwm4/themerc) file.
 
 When it comes to Desktop Icon and Appearance themes, I really like the [elementary-xfce-darker](https://github.com/shimmerproject/elementary-xfce/) icons and the [Greybird-dark](https://github.com/shimmerproject/Greybird) appearance. Configurable from the Appearance [`xfce4-appearance-settings`](https://docs.xfce.org/xfce/xfce4-settings/appearance) application.
 
