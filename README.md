@@ -20,6 +20,7 @@ Both Hitori and Dots themes had been released as "GPLv2 or later" on [xfce-look.
 - Alternatively [Numix](https://www.xfce-look.org/p/1013541/)[[2](https://github.com/numixproject/numix-gtk-theme/tree/master/src)] window panel theme is also pretty good.
 - When it comes to Desktop Icon and Appearance themes, I really like the [elementary-xfce-darker](https://github.com/shimmerproject/elementary-xfce/) icons and the [Greybird-dark](https://github.com/shimmerproject/Greybird) appearance.
 - [Trimage](https://trimage.org/) was used to compress the PNG files to something more suitable in size.
+- Window Manager Tweaks [`xfwm4-tweaks-settings`](https://docs.xfce.org/xfce/xfwm4/wmtweaks) can be useful.
 
 ## Installation
 Copy these themes into either: `~/.local/share/themes/` or `/usr/share/themes/`<br>
