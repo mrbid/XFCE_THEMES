@@ -17,3 +17,10 @@ The original themes are included in the repsitory for comparison and reference. 
 When it comes to Desktop Icon themes, I really like [elementary-xfce-darker](https://github.com/shimmerproject/elementary-xfce/).
 
 [Trimage](https://trimage.org/) was used to compress the PNG files to something more suitable in size.
+
+## Installation
+
+Copy these directories into
+`~/.local/share/themes/` or `/usr/share/themes/`
+e.g:
+`~/.local/share/themes/HitoriDots4`
