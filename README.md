@@ -11,7 +11,7 @@ This is where I discovered the [Hitori](https://www.xfce-look.org/p/1367339/) an
 - [`HitoriDots3`](https://github.com/mrbid/XFCE_THEMES/tree/main/HitoriDots3/xfwm4) This is HitoriDots1 but the window panel buttons only light up when hovered over.
 - [`HitoriDots4`](https://github.com/mrbid/XFCE_THEMES/tree/main/HitoriDots4/xfwm4) This is HitoriDots3 but now the buttons also have small graphics indicators when they light up.
 
-_The original themes are included in the repsitory for comparison and reference._
+_The original themes are included in the repository for comparison and reference._
 
 #### Licensing:
 Both Hitori and Dots themes had been released as "GPLv2 or later" on [xfce-look.org](https://xfce-look.org). Although I have since noticed Dots Black specifies "GPL-3.0+" in the [`themerc`](https://github.com/mrbid/XFCE_THEMES/blob/main/Dots%20Black/xfwm4/themerc) file. Technically all of the image assets are from the Dots theme and the `menu-active.png` taken from Hitori is so basic and only retains its original image dimensions and not colour shade... The license should continue as the Dots licence [`GPL-3.0+`](https://www.gnu.org/licenses/gpl-3.0.html). The themerc is also taken from the Hitori theme but again this is just a basic configuration file.
