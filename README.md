@@ -1,7 +1,7 @@
 # XFCE_THEMES
 Some window panel themes for XFCE.
 
-Looking for themes online for a FreeBSD install I stumbled across [this](https://www.ubuntupit.com/best-xfce-themes-for-linux/) website titled "Top 20 Best Xfce Themes".
+Looking for themes online for a FreeBSD install I stumbled across [this website](https://www.ubuntupit.com/best-xfce-themes-for-linux/) titled "Top 20 Best Xfce Themes".
 
 This is where I discovered the Hitori and Dots window panel themes. Although I was not _that_ impressed by them, the Dots theme removed the application icon from the window panel and the Hitori theme was more blue than black.
 
