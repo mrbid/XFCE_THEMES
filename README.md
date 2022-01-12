@@ -24,4 +24,6 @@ Alternatively [Numix](https://www.xfce-look.org/p/1013541/)[[2](https://github.c
 Copy these themes into either: `~/.local/share/themes/` or `/usr/share/themes/`<br>
 e.g: `~/.local/share/themes/HitoriDots4`
 
+Or for desktop icon packs: `~/.local/share/icons/` or `/usr/share/icons/`
+
 Then you can use the Window Manager [`xfwm4-settings`](https://docs.xfce.org/xfce/xfwm4/preferences) application to select between themes.
