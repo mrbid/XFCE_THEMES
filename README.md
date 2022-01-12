@@ -7,9 +7,9 @@ This is where I discovered the Hitori and Dots window panel themes. Although I w
 
 So I made some variations where I combined the two:
 
-- `HitoriDots1` This is the regular Dots Black theme but with the Hitori `menu-active.png` so that the application icon is now displayed.
-- `HitoriDots2` This is the regular Dots Black theme but with an easier on the eye colour pallet that more resembels the original Hitori theme.
-- `HitoriDots3` This is HitoriDots1 but the window panel buttons only light up when hovered over.
-- `HitoriDots4` This is HitoriDots3 but now the buttons also have small graphics indicators when they light up.
+- [`HitoriDots1`](https://github.com/mrbid/XFCE_THEMES/tree/main/HitoriDots1/xfwm4) This is the regular Dots Black theme but with the Hitori `menu-active.png` so that the application icon is now displayed.
+- [`HitoriDots2`](https://github.com/mrbid/XFCE_THEMES/tree/main/HitoriDots2/xfwm4) This is the regular Dots Black theme but with an easier on the eye colour pallet that more resembels the original Hitori theme.
+- [`HitoriDots3`](https://github.com/mrbid/XFCE_THEMES/tree/main/HitoriDots3/xfwm4) This is HitoriDots1 but the window panel buttons only light up when hovered over.
+- [`HitoriDots4`](https://github.com/mrbid/XFCE_THEMES/tree/main/HitoriDots4/xfwm4) This is HitoriDots3 but now the buttons also have small graphics indicators when they light up.
 
 When it comes to Desktop Icon themes, I really like [elementary-xfce-darker](https://github.com/shimmerproject/elementary-xfce/).
