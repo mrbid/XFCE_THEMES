@@ -1,5 +1,5 @@
 # XFCE_THEMES
-Some window panel themes for XFCE.
+Some window panel themes for XFCE [as listed on pling](https://www.pling.com/p/1682475/).
 
 Looking for themes online for a FreeBSD install I stumbled across [this website](https://www.ubuntupit.com/best-xfce-themes-for-linux/) titled "Top 20 Best Xfce Themes".
 
