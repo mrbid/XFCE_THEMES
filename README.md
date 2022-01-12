@@ -14,7 +14,7 @@ So I made some variations where I combined the two:
 
 The original themes are included in the repsitory for comparison and reference. Since both Hitori and Dots themes had been released as "GPLv2 or later" that is the same licence used for these modifications.
 
-When it comes to Desktop Icon themes, I really like [elementary-xfce-darker](https://github.com/shimmerproject/elementary-xfce/) and the [Greybird-dark](https://github.com/shimmerproject/Greybird) appearance. Configurable from the Appearance [`xfce4-appearance-settings`](https://docs.xfce.org/xfce/xfce4-settings/appearance) application.
+When it comes to Desktop Icon and Appearance themes, I really like the [elementary-xfce-darker](https://github.com/shimmerproject/elementary-xfce/) icons and the [Greybird-dark](https://github.com/shimmerproject/Greybird) appearance. Configurable from the Appearance [`xfce4-appearance-settings`](https://docs.xfce.org/xfce/xfce4-settings/appearance) application.
 
 [Trimage](https://trimage.org/) was used to compress the PNG files to something more suitable in size.
 
