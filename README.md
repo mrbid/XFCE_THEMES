@@ -13,3 +13,5 @@ So I made some variations where I combined the two:
 - [`HitoriDots4`](https://github.com/mrbid/XFCE_THEMES/tree/main/HitoriDots4/xfwm4) This is HitoriDots3 but now the buttons also have small graphics indicators when they light up.
 
 When it comes to Desktop Icon themes, I really like [elementary-xfce-darker](https://github.com/shimmerproject/elementary-xfce/).
+
+[Trimage](https://trimage.org/) was used to compress the PNG files to something more suitable in size.
