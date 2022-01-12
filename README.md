@@ -12,5 +12,4 @@ So I made some variations where I combined the two:
 - `HitoriDots3` This is HitoriDots1 but the window panel buttons only light up when hovered over.
 - `HitoriDots4` This is HitoriDots3 but now the buttons also have small graphics indicators when they light up.
 
-When it comes to Desktop Icon themes, I really like `elementary-xfce-darker`:
-https://github.com/shimmerproject/elementary-xfce/
+When it comes to Desktop Icon themes, I really like [elementary-xfce-darker](https://github.com/shimmerproject/elementary-xfce/).
