@@ -7,7 +7,7 @@ This is where I discovered the [Hitori](https://www.xfce-look.org/p/1367339/) an
 
 #### So I made some variations where I combined the two:
 - [`HitoriDots1`](https://github.com/mrbid/XFCE_THEMES/tree/main/HitoriDots1/xfwm4) This is the regular Dots Black theme but with the Hitori `menu-active.png` so that the application icon is now displayed and at a regular scale.
-- [`HitoriDots2`](https://github.com/mrbid/XFCE_THEMES/tree/main/HitoriDots2/xfwm4) This is the regular Dots Black theme but with an easier on the eye colour pallet that more resembels the original Hitori theme.
+- [`HitoriDots2`](https://github.com/mrbid/XFCE_THEMES/tree/main/HitoriDots2/xfwm4) This is the regular Dots Black theme but with an easier on the eye colour pallet that more resembles the original Hitori theme.
 - [`HitoriDots3`](https://github.com/mrbid/XFCE_THEMES/tree/main/HitoriDots3/xfwm4) This is HitoriDots1 but the window panel buttons only light up when hovered over.
 - [`HitoriDots4`](https://github.com/mrbid/XFCE_THEMES/tree/main/HitoriDots4/xfwm4) This is HitoriDots3 but now the buttons also have small graphics indicators when they light up.
 
