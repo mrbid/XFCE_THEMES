@@ -16,7 +16,7 @@ The original themes are included in the repsitory for comparison and reference. 
 
 When it comes to Desktop Icon and Appearance themes, I really like the [elementary-xfce-darker](https://github.com/shimmerproject/elementary-xfce/) icons and the [Greybird-dark](https://github.com/shimmerproject/Greybird) appearance. Configurable from the Appearance [`xfce4-appearance-settings`](https://docs.xfce.org/xfce/xfce4-settings/appearance) application.
 
-Alternatively [Numix](https://www.xfce-look.org/p/1013541/) is also pretty good.
+Alternatively [Numix](https://www.xfce-look.org/p/1013541/)[2](https://github.com/numixproject/numix-gtk-theme/tree/master/src) is also pretty good.
 
 [Trimage](https://trimage.org/) was used to compress the PNG files to something more suitable in size.
 
