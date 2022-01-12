@@ -34,3 +34,5 @@ By default the window panel buttons are left aligned in the respective `themerc`
 however some people may prefer right aligned: `#button_layout=O|HMC`
 
 More information about button layouts can be found [here](https://wiki.xfce.org/howto/xfwm4_theme).
+
+Alternatively you can override these button layout settings using the Window Manager Tweaks [`xfwm4-tweaks-settings`](https://docs.xfce.org/xfce/xfwm4/wmtweaks) application.
