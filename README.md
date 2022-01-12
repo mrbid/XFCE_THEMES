@@ -17,3 +17,5 @@ The original themes are included in the repsitory for comparison and reference.
 When it comes to Desktop Icon themes, I really like [elementary-xfce-darker](https://github.com/shimmerproject/elementary-xfce/).
 
 [Trimage](https://trimage.org/) was used to compress the PNG files to something more suitable in size.
+
+Since both Hitori and Dots themes had been released as "GPLv2 or later" that is the same licence used for these modifications.
