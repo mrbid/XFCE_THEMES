@@ -1,3 +1,14 @@
+# Name: HitoriDots1 (merger of Dots Black and Hitori themes)
+# https://github.com/mrbid/XFCE_THEMES
+
+# Dots Black Author: rafacuevas3
+# Dots Black License: GPL-3.0+
+# Dots Black Theme: https://www.xfce-look.org/p/1151531/
+
+# Hitori Author: hiburami
+# Hitori License: GPL-2.0+
+# Hitori Theme: https://www.xfce-look.org/p/1367339/
+
 #button_layout=CHM|O
 button_offset=-0
 button_spacing=0
