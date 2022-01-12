@@ -17,7 +17,7 @@ _The original themes are included in the repository for comparison and reference
 Both Hitori and Dots themes had been released as "GPLv2 or later" on [xfce-look.org](https://xfce-look.org). Although I have since noticed Dots Black specifies "GPL-3.0+" in the [`themerc`](https://github.com/mrbid/XFCE_THEMES/blob/main/Dots%20Black/xfwm4/themerc) file. Technically all of the image assets are from the Dots theme and the `menu-active.png` taken from Hitori is so basic and only retains its original image dimensions and not colour shade... The license should continue as the Dots license [`GPL-3.0+`](https://www.gnu.org/licenses/gpl-3.0.html). The themerc file is also taken from the Hitori theme but again this is just a basic configuration file.
 
 #### Notes:
-- Alternatively [Numix](https://www.xfce-look.org/p/1013541/)[[2](https://github.com/numixproject/numix-gtk-theme/tree/master/src)] window panel theme is also pretty good.
+- Alternatively, [Numix](https://www.xfce-look.org/p/1013541/)[[2](https://github.com/numixproject/numix-gtk-theme/tree/master/src)] window panel theme is also pretty good.
 - When it comes to Desktop Icon and Appearance themes, I really like the [elementary-xfce-darker](https://github.com/shimmerproject/elementary-xfce/) icons and the [Greybird-dark](https://github.com/shimmerproject/Greybird) appearance.
 - [Trimage](https://trimage.org/) was used to compress the PNG files to something more suitable in size.
 - Window Manager Tweaks [`xfwm4-tweaks-settings`](https://docs.xfce.org/xfce/xfwm4/wmtweaks) can be useful.
@@ -31,8 +31,8 @@ Or for desktop icon packs: `~/.local/share/icons/` or `/usr/share/icons/`
 Then you can use the Window Manager [`xfwm4-settings`](https://docs.xfce.org/xfce/xfwm4/preferences) application to select between themes or the Appearance [`xfce4-appearance-settings`](https://docs.xfce.org/xfce/xfce4-settings/appearance) application to select between desktop icons and appearances.
 
 ## Button Layout
-By default the window panel buttons are left aligned in the respective `themerc` file: `button_layout=CHM|O`<br>
-however some people may prefer right aligned: `button_layout=O|HMC`
+By default, the window panel buttons are left-aligned in the respective `themerc` file: `button_layout=CHM|O`<br>
+however, some people may prefer right-aligned: `button_layout=O|HMC`
 
 More information about button layouts can be found [here](https://wiki.xfce.org/howto/xfwm4_theme).
 
