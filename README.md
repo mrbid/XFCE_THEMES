@@ -5,8 +5,7 @@ Looking for themes online for a FreeBSD install I stumbled across [this website]
 
 This is where I discovered the Hitori and Dots window panel themes. Although I was not _that_ impressed by them, the Dots theme removed the application icon from the window panel and the Hitori theme was more blue than black.
 
-So I made some variations where I combined the two:
-
+**So I made some variations where I combined the two:**
 - [`HitoriDots1`](https://github.com/mrbid/XFCE_THEMES/tree/main/HitoriDots1/xfwm4) This is the regular Dots Black theme but with the Hitori `menu-active.png` so that the application icon is now displayed and at a regular scale.
 - [`HitoriDots2`](https://github.com/mrbid/XFCE_THEMES/tree/main/HitoriDots2/xfwm4) This is the regular Dots Black theme but with an easier on the eye colour pallet that more resembels the original Hitori theme.
 - [`HitoriDots3`](https://github.com/mrbid/XFCE_THEMES/tree/main/HitoriDots3/xfwm4) This is HitoriDots1 but the window panel buttons only light up when hovered over.
@@ -14,8 +13,7 @@ So I made some variations where I combined the two:
 
 The original themes are included in the repsitory for comparison and reference. Since both Hitori and Dots themes had been released as "GPLv2 or later" that is the same licence used for these modifications. Although I have noticed Dots Black specifies "GPL-3.0+" in the [`themerc`](https://github.com/mrbid/XFCE_THEMES/blob/main/Dots%20Black/xfwm4/themerc) file.
 
-Notes:
-
+**Notes:**
 - Alternatively [Numix](https://www.xfce-look.org/p/1013541/)[[2](https://github.com/numixproject/numix-gtk-theme/tree/master/src)] window panel theme is also pretty good.
 - When it comes to Desktop Icon and Appearance themes, I really like the [elementary-xfce-darker](https://github.com/shimmerproject/elementary-xfce/) icons and the [Greybird-dark](https://github.com/shimmerproject/Greybird) appearance.
 - [Trimage](https://trimage.org/) was used to compress the PNG files to something more suitable in size.
