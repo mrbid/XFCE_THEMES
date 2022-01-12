@@ -22,4 +22,4 @@ When it comes to Desktop Icon themes, I really like [elementary-xfce-darker](htt
 Copy these themes into either: `~/.local/share/themes/` or `/usr/share/themes/`<br>
 e.g: `~/.local/share/themes/HitoriDots4`
 
-Then you can use the Window Manager `xfwm4-settings` application to select between themes.
+Then you can use the Window Manager [`xfwm4-settings`](https://docs.xfce.org/xfce/xfwm4/preferences) application to select between themes.
