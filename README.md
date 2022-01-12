@@ -14,7 +14,7 @@ This is where I discovered the Hitori and Dots window panel themes. Although I w
 _The original themes are included in the repsitory for comparison and reference._
 
 #### Licensing:
-Since both Hitori and Dots themes had been released as "GPLv2 or later" on xfce-look.org that is the same licence I used for these modifications. Although I have since noticed Dots Black specifies "GPL-3.0+" in the [`themerc`](https://github.com/mrbid/XFCE_THEMES/blob/main/Dots%20Black/xfwm4/themerc) file.
+Since both Hitori and Dots themes had been released as "GPLv2 or later" on xfce-look.org. Although I have since noticed Dots Black specifies "GPL-3.0+" in the [`themerc`](https://github.com/mrbid/XFCE_THEMES/blob/main/Dots%20Black/xfwm4/themerc) file. Technically all of the image assets are from the Dots theme and the `menu-active.png` taken from Hitori is so basic and only retains its original image dimensions and not colour shade... The license should continue as the Dots licence [`GPL-3.0+`](https://www.gnu.org/licenses/gpl-3.0.html). The themerc is also taken from the Hitori theme but again this is just a basic configuration file.
 
 #### Notes:
 - Alternatively [Numix](https://www.xfce-look.org/p/1013541/)[[2](https://github.com/numixproject/numix-gtk-theme/tree/master/src)] window panel theme is also pretty good.
