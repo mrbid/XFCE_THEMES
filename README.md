@@ -12,6 +12,8 @@ So I made some variations where I combined the two:
 - [`HitoriDots3`](https://github.com/mrbid/XFCE_THEMES/tree/main/HitoriDots3/xfwm4) This is HitoriDots1 but the window panel buttons only light up when hovered over.
 - [`HitoriDots4`](https://github.com/mrbid/XFCE_THEMES/tree/main/HitoriDots4/xfwm4) This is HitoriDots3 but now the buttons also have small graphics indicators when they light up.
 
+The original themes are included in the repsitory for comparison and reference.
+
 When it comes to Desktop Icon themes, I really like [elementary-xfce-darker](https://github.com/shimmerproject/elementary-xfce/).
 
 [Trimage](https://trimage.org/) was used to compress the PNG files to something more suitable in size.
