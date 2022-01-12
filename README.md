@@ -9,7 +9,7 @@ So I made some variations where I combined the two:
 
 - `HitoriDots1` This is the regular Dots Black theme but with the Hitori `menu-active.png` so that the application icon is now displayed.
 - `HitoriDots2` This is the regular Dots Black theme but with an easier on the eye colour pallet that more resembels the original Hitori theme.
-- `HitoriDots3` This is HitoriDots1 but the window panel buttons only light up when hoevered over.
+- `HitoriDots3` This is HitoriDots1 but the window panel buttons only light up when hovered over.
 - `HitoriDots4` This is HitoriDots3 but now the buttons also have small graphics indicators when they light up.
 
 When it comes to Desktop Icon themes, I really like `elementary-xfce-darker`:
