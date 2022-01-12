@@ -14,9 +14,9 @@ So I made some variations where I combined the two:
 
 The original themes are included in the repsitory for comparison and reference. Since both Hitori and Dots themes had been released as "GPLv2 or later" that is the same licence used for these modifications. Although I have noticed Dots Black specifies "GPL-3.0+" in the [`themerc`](https://github.com/mrbid/XFCE_THEMES/blob/main/Dots%20Black/xfwm4/themerc) file.
 
-When it comes to Desktop Icon and Appearance themes, I really like the [elementary-xfce-darker](https://github.com/shimmerproject/elementary-xfce/) icons and the [Greybird-dark](https://github.com/shimmerproject/Greybird) appearance.
+Alternatively [Numix](https://www.xfce-look.org/p/1013541/)[[2](https://github.com/numixproject/numix-gtk-theme/tree/master/src)] window panel theme is also pretty good.
 
-Alternatively [Numix](https://www.xfce-look.org/p/1013541/)[[2](https://github.com/numixproject/numix-gtk-theme/tree/master/src)] is also pretty good.
+When it comes to Desktop Icon and Appearance themes, I really like the [elementary-xfce-darker](https://github.com/shimmerproject/elementary-xfce/) icons and the [Greybird-dark](https://github.com/shimmerproject/Greybird) appearance.
 
 [Trimage](https://trimage.org/) was used to compress the PNG files to something more suitable in size.
 
