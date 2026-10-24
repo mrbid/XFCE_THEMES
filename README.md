@@ -10,6 +10,7 @@ This is where I discovered the [Hitori](https://www.xfce-look.org/p/1367339/) an
 - [`HitoriDots2`](https://github.com/mrbid/XFCE_THEMES/tree/main/HitoriDots2/xfwm4) This is the regular Dots Black theme but with an easier on the eye colour pallet that more resembles the original Hitori theme.
 - [`HitoriDots3`](https://github.com/mrbid/XFCE_THEMES/tree/main/HitoriDots3/xfwm4) This is HitoriDots1 but the window panel buttons only light up when hovered over.
 - [`HitoriDots4`](https://github.com/mrbid/XFCE_THEMES/tree/main/HitoriDots4/xfwm4) This is HitoriDots3 but now the buttons also have small graphics indicators when they light up.
+- [`HitoriDots5`](https://github.com/mrbid/XFCE_THEMES/tree/main/HitoriDots5/xfwm4) This is HitoriDots4 but now the buttons fade out when the respective windows are not in focus.
 
 _The original themes are included in the repository for comparison and reference._
 
